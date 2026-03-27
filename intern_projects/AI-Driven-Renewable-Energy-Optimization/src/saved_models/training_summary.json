@@ -1,0 +1,23 @@
+{
+  "training_config": {
+    "batch_size": 32,
+    "num_epochs": 50,
+    "data_path": "C:\\Users\\Adm\\Desktop\\Kalpana\\python projects\\solar_defects_classification\\data\\enhanced_solar_dataset",
+    "device": "cpu"
+  },
+  "final_results": {
+    "best_val_loss": 0.8067159652709961,
+    "final_train_accuracy": 97.29729729729729,
+    "final_val_accuracy": 88.13559322033899,
+    "final_train_mae": 9.192332311940845,
+    "final_val_mae": 7.325022530190093
+  },
+  "class_names": [
+    "bird_droppings",
+    "clean",
+    "dusty",
+    "electrical_damage",
+    "physical_damage",
+    "snow_covered"
+  ]
+}

@@ -1,0 +1,13 @@
+torch
+torchvision
+scikit-learn
+
+streamlit
+Pillow
+numpy
+pandas
+
+# Add these new ones for efficiency prediction
+plotly>=5.0.0
+seaborn>=0.11.0
+matplotlib>=3.5.0

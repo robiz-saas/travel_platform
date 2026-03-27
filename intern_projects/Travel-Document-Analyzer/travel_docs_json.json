@@ -1,0 +1,444 @@
+{
+  "travel_requirements": {
+    "last_updated": "2025-07-03",
+    "disclaimer": "Requirements may vary by nationality, purpose of visit, and duration of stay. Always verify current requirements with official embassy or consulate sources before traveling.",
+    "countries": [
+      {
+        "country": "Kenya",
+        "country_code": "KE",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months with 2 blank pages",
+            "notes": "Must have blank pages for visa and stamps"
+          },
+          "visa": {
+            "required": "Usually required",
+            "types": [
+              "e-Visa",
+              "Tourist Visa",
+              "Transit"
+            ],
+            "notes": "Most visitors can apply for e-Visa online"
+          },
+          "health_documents": {
+            "yellow_fever_certificate": {
+              "required": "Mandatory for all travelers over 1 year old",
+              "notes": "Required regardless of country of origin"
+            },
+            "travel_insurance": {
+              "required": "Recommended",
+              "notes": "Should cover medical expenses and evacuation"
+            }
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence"
+          ]
+        }
+      },
+      {
+        "country": "Angola",
+        "country_code": "AO",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months with blank pages",
+            "notes": "Must have at least 2 blank pages"
+          },
+          "visa": {
+            "required": true,
+            "types": [
+              "Tourist Visa",
+              "Business Visa"
+            ],
+            "notes": "Visa must be obtained in advance"
+          },
+          "health_documents": {
+            "yellow_fever_certificate": {
+              "required": "Mandatory",
+              "notes": "Required for all travelers over 9 months old"
+            },
+            "polio_vaccination": {
+              "required": "If coming from polio-endemic areas",
+              "notes": "Oral polio vaccine required if traveling from certain countries"
+            },
+            "travel_insurance": {
+              "required": "Recommended",
+              "notes": "Medical coverage strongly advised"
+            }
+          },
+          "additional_documents": [
+            "Hotel reservations",
+            "Flight itinerary",
+            "Proof of financial means",
+            "Invitation letter (if applicable)"
+          ]
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for entire stay",
+            "notes": "Must have at least one blank page"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Standard Visitor",
+              "Transit",
+              "Work",
+              "Study"
+            ],
+            "notes": "EU citizens may have different requirements post-Brexit"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence",
+            "Travel insurance"
+          ]
+        }
+      },
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for entire stay",
+            "notes": "Must have sufficient blank pages"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Tourist",
+              "Business",
+              "Transit"
+            ],
+            "notes": "Many nationalities can enter visa-free for short stays"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of sufficient funds",
+            "Travel itinerary",
+            "Hotel reservations"
+          ]
+        }
+      },
+      {
+        "country": "Germany",
+        "country_code": "DE",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 3 months beyond intended stay",
+            "notes": "Must be issued within last 10 years"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Schengen Tourist",
+              "Business",
+              "Transit"
+            ],
+            "notes": "Schengen visa allows travel to 26 European countries"
+          },
+          "additional_documents": [
+            "Travel insurance (minimum \u20ac30,000 coverage)",
+            "Proof of accommodation",
+            "Financial means evidence",
+            "Return ticket"
+          ]
+        }
+      },
+      {
+        "country": "Australia",
+        "country_code": "AU",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for entire stay",
+            "notes": "Must have at least 2 blank pages"
+          },
+          "visa": {
+            "required": true,
+            "types": [
+              "Electronic Travel Authority (ETA)",
+              "eVisitor",
+              "Tourist",
+              "Business"
+            ],
+            "notes": "All visitors must have a visa or electronic authorization"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of sufficient funds",
+            "Health insurance (recommended)",
+            "Character documents (if required)"
+          ]
+        }
+      },
+      {
+        "country": "Canada",
+        "country_code": "CA",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for entire stay",
+            "notes": "Must be in good condition"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Electronic Travel Authorization (eTA)",
+              "Visitor Visa",
+              "Transit"
+            ],
+            "notes": "Visa-exempt travelers need eTA (except US citizens)"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of financial support",
+            "Letter of invitation (if applicable)",
+            "Travel insurance (recommended)"
+          ]
+        }
+      },
+      {
+        "country": "India",
+        "country_code": "IN",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months with 2 blank pages",
+            "notes": "Must have sufficient blank pages for stamps"
+          },
+          "visa": {
+            "required": true,
+            "types": [
+              "e-Visa",
+              "Tourist Visa",
+              "Business Visa",
+              "Medical Visa"
+            ],
+            "notes": "Most nationalities can apply for e-Visa online"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence",
+            "Recent passport-size photographs"
+          ]
+        }
+      },
+      {
+        "country": "China",
+        "country_code": "CN",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months with blank pages",
+            "notes": "Must have at least 2 blank visa pages"
+          },
+          "visa": {
+            "required": "Usually required",
+            "types": [
+              "Tourist (L)",
+              "Business (M)",
+              "Transit (G)",
+              "72/144-hour visa-free transit"
+            ],
+            "notes": "Some cities offer visa-free transit for certain nationalities"
+          },
+          "additional_documents": [
+            "Hotel reservations",
+            "Flight itinerary",
+            "Proof of financial means",
+            "Travel insurance",
+            "Invitation letter (if applicable)"
+          ]
+        }
+      },
+      {
+        "country": "Brazil",
+        "country_code": "BR",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months",
+            "notes": "Must have blank pages for entry stamp"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Tourist",
+              "Business",
+              "Transit"
+            ],
+            "notes": "Many nationalities can enter visa-free for tourism"
+          },
+          "health_documents": {
+            "yellow_fever_certificate": {
+              "required": "If coming from endemic areas",
+              "notes": "Required if arriving from countries with yellow fever transmission risk"
+            },
+            "travel_insurance": {
+              "required": "Recommended",
+              "notes": "Should cover medical expenses and repatriation"
+            }
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence"
+          ]
+        }
+      },
+      {
+        "country": "South Africa",
+        "country_code": "ZA",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 30 days after departure with 2 blank pages",
+            "notes": "Must have consecutive blank pages for entry/exit stamps"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Tourist",
+              "Business",
+              "Transit"
+            ],
+            "notes": "Many nationalities can enter visa-free for short stays"
+          },
+          "health_documents": {
+            "yellow_fever_certificate": {
+              "required": "If coming from endemic areas",
+              "notes": "Required if arriving from yellow fever endemic countries within 10 days"
+            },
+            "travel_insurance": {
+              "required": "Recommended",
+              "notes": "Should cover medical expenses"
+            }
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Proof of sufficient funds"
+          ]
+        }
+      },
+      {
+        "country": "Thailand",
+        "country_code": "TH",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months",
+            "notes": "Must have blank pages for stamps"
+          },
+          "visa": {
+            "required": "Depends on nationality and duration",
+            "types": [
+              "Visa exemption",
+              "Tourist Visa",
+              "Visa on Arrival"
+            ],
+            "notes": "Many nationalities can enter visa-free for 30 days"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence (cash or equivalent)",
+            "Travel insurance (recommended)"
+          ]
+        }
+      },
+      {
+        "country": "Russia",
+        "country_code": "RU",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months beyond visa expiry",
+            "notes": "Must have at least 2 blank pages"
+          },
+          "visa": {
+            "required": "Usually required",
+            "types": [
+              "Tourist",
+              "Business",
+              "Transit",
+              "e-Visa (select regions)"
+            ],
+            "notes": "Tourist visa requires hotel voucher or invitation"
+          },
+          "additional_documents": [
+            "Hotel voucher or invitation letter",
+            "Travel insurance",
+            "Migration card (provided on arrival)",
+            "Proof of financial means"
+          ]
+        }
+      },
+      {
+        "country": "Egypt",
+        "country_code": "EG",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for at least 6 months",
+            "notes": "Must have blank pages for visa and stamps"
+          },
+          "visa": {
+            "required": "Usually required",
+            "types": [
+              "Tourist Visa",
+              "e-Visa",
+              "Visa on Arrival"
+            ],
+            "notes": "Many nationalities can get visa on arrival or e-visa"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Hotel reservations",
+            "Travel insurance (recommended)",
+            "Proof of sufficient funds"
+          ]
+        }
+      },
+      {
+        "country": "Mexico",
+        "country_code": "MX",
+        "requirements": {
+          "passport": {
+            "required": true,
+            "validity_period": "Valid for entire stay",
+            "notes": "Must be in good condition"
+          },
+          "visa": {
+            "required": "Depends on nationality",
+            "types": [
+              "Tourist Card (FMM)",
+              "Tourist Visa",
+              "Business Visa"
+            ],
+            "notes": "Many nationalities can enter visa-free with tourist card"
+          },
+          "additional_documents": [
+            "Return/onward ticket",
+            "Proof of accommodation",
+            "Financial evidence",
+            "Tourist card (FMM) filled out"
+          ]
+        }
+      }
+    ]
+  }
+}

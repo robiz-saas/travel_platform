@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+backend/venv/
+
+# Ignore environment files
+backend/.env
+
+# Node modules (React)
+frontend/node_modules/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

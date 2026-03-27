@@ -1,0 +1,8 @@
+pymongo
+duckduckgo-search
+requests
+typing_extensions
+groq
+python-dotenv 
+yagmail
+streamlit
